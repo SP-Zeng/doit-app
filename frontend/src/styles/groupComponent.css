@@ -1,0 +1,13 @@
+.groupComponent {
+    display: flex;
+    flex-direction: row;
+}
+
+.rightSection {
+    display: flex;
+    flex-direction: row;
+    width: '100%';
+    /* resize: 'horizontal'; */
+    /* max-width: '100px'; */
+    height: '100vh';
+}
